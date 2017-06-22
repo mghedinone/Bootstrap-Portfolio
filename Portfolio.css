@@ -1,0 +1,16 @@
+
+footer{
+	width:100%;
+	background-color: #666666;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 8pt;
+	padding: 30px;
+	color: white;
+	text-align: center;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+	border-top-width: 4px;
+	clear: both;
+	margin: none;
+
+}
